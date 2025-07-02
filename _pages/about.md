@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi there. I’m Yulong Dai, **an incoming computer science PhD student at Purdue University, advised by [Prof. Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/)**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interest lies in 3D vision and computer graphics.
+
+Previously, I was honored to collaborated with [Prof. Aggelos K. Katsaggelos](https://sites.northwestern.edu/ivpl/) in Northwestern. I also worked with [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en) in Chinese University of Hong Kong (Shenzhen).
+
+Please connect if you are intertested!
 
 A data-driven personal website
 ======
