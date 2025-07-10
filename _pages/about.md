@@ -20,6 +20,6 @@ Please connect if you are intertested!
 - Bachelor of Engineering, Computer Engineering, The Chinese University of Hong Kong, Shenzhen (2019-2023)
 
 ### Work Experience
-Graphics R&D Intern, Activision Blizzard (Jun 2024 - Mar 2025)
-Computer Vision Engineer Intern, Xim Industry Inc. (May 2023 - Aug 2023)
+- Graphics R&D Intern, Activision Blizzard (Jun 2024 - Mar 2025)
+- Computer Vision Engineer Intern, Xim Industry Inc. (May 2023 - Aug 2023)
 
